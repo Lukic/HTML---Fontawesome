@@ -1,0 +1,24 @@
+ul {
+  width: 100%;
+  display: flex;
+  list-style-type: none;
+}
+
+ul li {
+  margin: 0 10px;
+}
+
+ul li img {
+  width: 50px;
+  display: block;
+}
+
+ul li a i {
+  font-size: 900px;
+  color: black;
+}
+
+ul li a i:hover {
+  font-size: 900px;
+  color: red;
+}
